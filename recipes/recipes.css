@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(36, 29, 29);
+    color: white;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p,
+li {
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 550px;
+}
